@@ -22,7 +22,7 @@
         "wayou.vscode-todo-highlight"
       ],
       "settings": {
-        "editor.fontSize": 16,                     // 👀 Medium font for code
+        "editor.fontSize": 10,                     // 👀 Medium font for code
         "terminal.integrated.fontSize": 14,        // 👨‍💻 Medium terminal readability
         "editor.wordWrap": "on",
         "editor.formatOnSave": true,
